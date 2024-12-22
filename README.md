@@ -6,9 +6,10 @@ A simple and interactive web-based game where the user tries to guess a randomly
 
 This project is a fun and easy-to-play guessing game built using HTML, CSS, and JavaScript. The user enters a number in the input box, and the game checks if it matches the randomly generated number. If correct, the user wins; otherwise, they are prompted to try again.
 
-**Screenshot**
+## 🖼️ Screenshot
 
-![{03C43A75-C3A1-42EB-BE01-2D1FB688CE78}](https://github.com/user-attachments/assets/28100e8f-f74a-48d2-acc2-3cb729c04571)
+![{1FCAECBB-023C-4AD5-8C3B-4C51996F07C0}](https://github.com/user-attachments/assets/e741e9a1-e58c-44f4-b09b-8bf55aaafb60)
+
 
 
 
